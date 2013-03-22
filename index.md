@@ -2,6 +2,7 @@
 layout: page
 title: Hacker World!
 tagline: Supporting tagline
+analytics : true
 ---
 {% include JB/setup %}
 
