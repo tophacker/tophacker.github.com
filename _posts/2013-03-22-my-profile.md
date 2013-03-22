@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: page
 category : profile
 tagline: "Supporting tagline"
-tags : [profile]
 ---
 {% include JB/setup %}
 
