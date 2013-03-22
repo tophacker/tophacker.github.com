@@ -1,5 +1,6 @@
 ---
 layout: page
+title: My Profile
 category : profile
 tagline: "Supporting tagline"
 ---
