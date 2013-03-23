@@ -6,6 +6,8 @@ analytics : true
 ---
 {% include JB/setup %}
 
+![emacs](/images/684px_GNU_Emacs_23.1.1.png)
+
 ## Hacker Ethic
 
     1. Access to computers--and anything that might teach you something about the way the world works--should be unlimited and total. Always yield to the Hands-On Imperative!
