@@ -6,6 +6,8 @@ analytics : true
 ---
 {% include JB/setup %}
 
+## Hacker Editor
+
 ![emacs](/images/684px_GNU_Emacs_23.1.1.png)
 
 ## Hacker Ethic
