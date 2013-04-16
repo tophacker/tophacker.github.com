@@ -9,23 +9,27 @@ analytics : true
 
 ![taiji](/images/taiji.jpg)
 
+## Computers should relieve man of all monotonous, dull routine work.
 
-## Training:
+## System Administration:
 
-    c
-    c++
-    python
-    perl
+    Computers can change your life for the better.
 
 ## Data Processing & Analysis:
 
-    AAA
-    BBB
-   
+    Computers can change your life for the better.    
+
+## Training:
+
+    C
+    C++
+    Python
+    Perl
+
 ## Software Development:
 
-    AAA
-    BBB
+    Linux or Windows OS. 
+    Embeded, PC and Web.
 
 
 <script type="text/javascript">
