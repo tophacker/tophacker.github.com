@@ -7,11 +7,26 @@ analytics : true
 ---
 {% include JB/setup %}
 
-![emacs](/images/684px_GNU_Emacs_23.1.1.png)
+![taiji](/images/taiji.jpg)
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+## Training:
+
+    c
+    c++
+    python
+    perl
+
+## Data Processing & Analysis:
+
+    AAA
+    BBB
+   
+## Software Development:
+
+    AAA
+    BBB
+
 
 <script type="text/javascript">
 

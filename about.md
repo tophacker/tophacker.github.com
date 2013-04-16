@@ -7,11 +7,9 @@ analytics : true
 ---
 {% include JB/setup %}
 
-![emacs](/images/684px_GNU_Emacs_23.1.1.png)
+![drupal](/images/drupal.jpg)
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
-
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+Read my profile [my profile](/_posts/2013-03-22-my-profile.md)
 
 <script type="text/javascript">
 
