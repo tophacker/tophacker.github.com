@@ -9,7 +9,7 @@ analytics : true
 
 ![drupal](/images/drupal.jpg)
 
-Read my profile [my profile](/_posts/2013-03-22-my-profile.html)
+Read my profile [my profile](/profiles/2013/03/22/my-profile/)
 
 <script type="text/javascript">
 
