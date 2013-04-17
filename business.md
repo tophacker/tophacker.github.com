@@ -9,10 +9,9 @@ analytics : true
 
 ![taiji](/images/taiji.jpg)
 
---- 
-
+*****
 ***Computers should relieve man of all monotonous, dull routine work!***   
----
+*****
    
 
 
