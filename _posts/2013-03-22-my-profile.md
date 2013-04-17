@@ -29,10 +29,12 @@ tagline: "Supporting tagline"
     Bachelor's degree, Computer Science.
     Grade: A
 
+
+
 -----
 
-## >Contact me:
-### >>Mobile: 13911159620
-### >>Email : <lst16888@gmail.com>
+## > Contact me:
+### >> Mobile: 13911159620
+### >> Email : <lst16888@gmail.com>
 
 
