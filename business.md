@@ -11,7 +11,7 @@ analytics : true
 
 *****    
 
-***Computers should relieve man of all monotonous, dull routine work!***   
+## ***Computers should relieve man of all monotonous, dull routine work!***   
 
 *****     
 
@@ -36,6 +36,9 @@ analytics : true
 
     Linux or Windows OS. 
     Embeded, PC and Web.
+
+*****     
+
 
 ## [Contact me](/profiles/2013/03/22/my-profile/)
 
