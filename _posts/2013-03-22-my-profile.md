@@ -6,15 +6,10 @@ tagline: "Supporting tagline"
 ---
 {% include JB/setup %}
 
-## Mobile: 13911159620
-## Email : <lst16888@gmail.com>
-
 ## Overview: 
 
     Name  : Lee Songtao
     Gender: Male
-    Mobile: 13911159620
-    Email : lst16888@gmail.com
 
 ## Skills:
 
@@ -33,3 +28,9 @@ tagline: "Supporting tagline"
     Hebei Polytechnic University
     Bachelor's degree, Computer Science.
     Grade: A
+
+## Contact me:
+### Mobile: 13911159620
+### Email : <lst16888@gmail.com>
+
+
