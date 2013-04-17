@@ -6,12 +6,15 @@ tagline: "Supporting tagline"
 ---
 {% include JB/setup %}
 
+## Mobile: 13911159620
+## Email : <lst16888@gmail.com>
+
 ## Overview: 
 
     Name  : Lee Songtao
     Gender: Male
     Mobile: 13911159620
-    Email : < lst16888@gmail.com >
+    Email : lst16888@gmail.com
 
 ## Skills:
 
