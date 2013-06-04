@@ -34,6 +34,7 @@ tagline: "Supporting tagline"
 ## Resumes:
 
 [LeeSongtao_english_resume_20130419.pdf](/docs/LeeSongtao_english_resume_20130419.pdf)
+[李松涛_中文_简历_20130419.pdf](/docs/李松涛_中文_简历_20130419.pdf)
 
 ## Contact me:
 ### + Mobile: 13911159620
