@@ -7,8 +7,26 @@ tags : [shell]
 ---
 {% include JB/setup %}
 
-## Documents:
-aaa
+## detect net:
+
+#!/bin/sh
+
+num=0
+
+until [ "$num" -gt "1" ]
+do
+        num=`ifconfig | grep -i 'inet addr' | wc -l`
+	echo 'net detecting...'
+	sleep 2
+done
+
+sleep 2
+`stardict&`
+`thunderbird&`
+`chromium-broswer&`
+echo '\n\nnet connected!'
+
+
 
 
 <script>
