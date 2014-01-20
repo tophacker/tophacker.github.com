@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Shell scripts 
+title: 2013-12-05 Shell scripts 
 category : linux
 tagline: "Supporting tagline"
 tags : [shell]
