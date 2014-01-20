@@ -91,7 +91,7 @@ The following scripts are all of bash scripts, and test passed on ubuntu12.04.
 	<HEAD>
 	<meta http-equiv="content-type" content="text/html;charset=utf-8">
 	<TITLE>
-	文本文件转换为HTML文件
+	Transform TEXT file to HTML file
 	</TITLE>
 	</HEAD>
 	<BODY>
